@@ -1,8 +1,7 @@
 {
   "app_enabled": true,
   "block_message": "Access Restricted by Developer ARJUN PRADHAN.",
-  "latest_version_code": 4,
-  "update_notes": "New GS Cyberpunk Icon, Side-Swipe Controls & Performance Boost!",
-  "apk_download_url": "https://github.com/pradhanarjun9588-hue/ProGameSpace-Control/releases/download/v5.0/app-release.apk
-  "
+  "latest_version_code": 5,
+  "update_notes": "Fixed App Counter, Auto Call Reject, Smart Gesture Lock & Brightness Lock!",
+  "apk_download_url": "https://github.com/pradhanarjun9588-hue/ProGameSpace-Control/releases/download/v5.0/app-release.apk"
 }
